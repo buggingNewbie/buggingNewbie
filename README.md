@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-go to this site (for fun) <a href="http://example.com/" target="_blank" rel="noreferrer nopener"> here! </a>
+go to this site (for fun) <a href="http://example.com/"> here! </a>
